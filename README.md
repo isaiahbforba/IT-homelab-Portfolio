@@ -4,7 +4,6 @@ This repository documents my hands-on projects in systems administration, networ
 Projects
 - Active Directory Lab
 - Backup and Recovery Lab (in progress)
-- Linux Administration Lab
-- Cisco Networking Lab
-Certifications
+- 
+**Certifications**
 CompTIA Security+ · Network+ · A+
