@@ -6,6 +6,5 @@ Projects
 - Backup and Recovery Lab (in progress)
 - Linux Administration Lab
 - Cisco Networking Lab
-- AWS Cloud Lab
 Certifications
 CompTIA Security+ · Network+ · A+
