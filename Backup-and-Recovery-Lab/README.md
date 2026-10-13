@@ -15,7 +15,7 @@ Configure and test Windows Server Backup in a virtualized Active Directory envir
 - Windows Server Backup
 - Dedicated virtual backup disk
 
-**3. Backup Storage Configuration**
+## 3. Backup Storage Configuration
 To simulate backup storage, I created an additional virtual hard disk in the VirtualBox VM and formatted it.
 
 Steps
