@@ -9,7 +9,7 @@ Configure and test Windows Server Backup in a virtualized Active Directory envir
 
 ## 2. Lab Environment
 - Hypervisor: Oracle VM VirtualBox
-- Operating System: Windows Server 2022
+- Operating System: Windows Server 2025
 - Active Directory Domain Services (AD DS)
 - DNS Server
 - Windows Server Backup
